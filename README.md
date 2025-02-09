@@ -25,7 +25,6 @@ To use this library, you could type "py -m pip install pynput" inside the termin
 <br />
 Step 2:  <br/>
 This defines the main method that launches when the program fires. For example, if the main method is ready to launch, what do we want it to do?
-to do? 
 <br/>
 <img src="https://i.imgur.com/s5riGi3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
