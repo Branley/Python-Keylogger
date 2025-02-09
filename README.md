@@ -52,8 +52,8 @@ serves as a reference for later. </br>
 <br />
 <br />
 Step 7: <br/>
-In the try area, we are converting this key to a character to put into our file. The reason why this is in a try and expect block is becauase "char = key.char" does not always work and sometimes comes out with errors. To go around that, "print("error getting char)"
-is the expection and we just printed it to ourselves.
+In the try area, we are converting this key to a character to put into our file. The reason why this is in a try and except block is becauase "char = key.char" does not always work and sometimes comes out with errors. To go around that, "print("error getting char)"
+is the exceptation and we just printed it to ourselves. </br>
 <img src="https://i.imgur.com/SnAjJBn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
